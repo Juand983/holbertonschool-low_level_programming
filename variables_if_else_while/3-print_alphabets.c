@@ -1,9 +1,8 @@
 #include<stdio.h>
 /**
-*
 *main - three
+*Return: 0
 */
-
 int main(void)
 {
 char l;
