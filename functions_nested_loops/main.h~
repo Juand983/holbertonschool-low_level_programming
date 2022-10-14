@@ -1,0 +1,7 @@
+#ifndef MAIN.H
+#define MAIN.H
+void print_alphabet(void);
+
+the entire header file file
+
+#endif
